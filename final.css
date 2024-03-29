@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-@media(min-width:200px) and (max-width:800px){
+@media(min-width:100px) and (max-width:800px){
     body{
         background-image: url("./image/mobile_version_image_background.jpg");
         background-size: cover;
